@@ -55,6 +55,10 @@ Key functions in `agent_functions.hpp`:
 
 C++ · Python · NumPy · Matplotlib · Optimal control · Motion primitives
 
+## License
+
+No license is provided. This repository contains course material and code provided by the course instructors. Please contact me before reusing it.
+
 ## Author
 
 **Yogeswaran Amsavalli** · [GitHub](https://github.com/YogiOnCode)
