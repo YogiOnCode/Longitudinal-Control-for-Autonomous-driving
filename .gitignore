@@ -1,0 +1,21 @@
+# Build
+build/
+install/
+log/
+*.o
+*.obj
+*.so
+*.a
+*.exe
+CMakeFiles/
+CMakeCache.txt
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
